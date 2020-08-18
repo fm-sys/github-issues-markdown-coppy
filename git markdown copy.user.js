@@ -2,7 +2,7 @@
 // @name         git markdown copy
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  try to take over the world!
+// @description  A button for copy name & number with attached link in markdown style
 // @author       fm-sys
 // @match        https://github.com/*/*/issues/*
 // @match        https://github.com/*/*/pull/*
